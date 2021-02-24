@@ -4,6 +4,9 @@
               due to lightning detected.
      Uses sleep mode to minimize power consumption
      Powered by 2xAA cells
+
+    24 Feb 2021
+    uploaded via git bash to github
      
     10 June 2019 - gswann
 
